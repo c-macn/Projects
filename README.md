@@ -1,4 +1,4 @@
 Projects
 ========
 
-Various projects either done for coursework or for personal experience
+Various projects done for coursework or for personal experience
